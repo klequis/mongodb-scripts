@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-scripts",
+  "version": "1.0.0",
+  "description": "Some not intentionally organized examples of writing MongoDB queries as NodeJS scripts. Really just a reference for me.",
+  "main": "try.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klequis/mongodb-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klequis/mongodb-scripts/issues"
+  },
+  "homepage": "https://github.com/klequis/mongodb-scripts#readme",
+  "dependencies": {
+    "mongodb": "^3.1.13"
+  }
+}
